@@ -10,7 +10,7 @@ const FirstPost = () => {
         <title>First post</title>
       </Head>
 
-      <h1>First Post</h1>
+      <h1>Potemkin likes getting railed</h1>
       <h2>
         <Link href='/'>
           <a>Back to home!</a>
